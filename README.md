@@ -1,2 +1,3 @@
 
-[A Complete Guide to Hosted Service(s) in .NET 6 using C# 10](https://adnanrafiq.com/blog/complete-guide-to-hosted-or-background-or-worker-services-in-dot-net-using-csharp/)
+- Лок. Глава 22. Создание фоновых задач и сервисов
+- [A Complete Guide to Hosted Service(s) in .NET 6 using C# 10](https://adnanrafiq.com/blog/complete-guide-to-hosted-or-background-or-worker-services-in-dot-net-using-csharp/)
